@@ -1,4 +1,8 @@
 # 文件来自队员oneshark,基本框架有队员书写，感谢队友
+## ming的antd组件在 src/client/pages/configs.js
+
+-----------------------------------
+# 以下为oneshark的工作
 
 # 字节青训营项目
 - ESLint代码格式化（编写规范）
@@ -109,4 +113,4 @@ event.clientY：垂直坐标。
 
 
 
-## ming的antd组件在 src/client/pages/configs.js
+
