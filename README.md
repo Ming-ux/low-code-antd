@@ -1,9 +1,3 @@
-# 文件来自队员oneshark,基本框架有队员书写，感谢队友
-## ming的antd组件在 src/client/pages/configs.js
-
------------------------------------
-# 以下为oneshark的工作
-
 # 字节青训营项目
 - ESLint代码格式化（编写规范）
 - 引入scss `cnpm i --save sass`
@@ -110,6 +104,15 @@ redux：统一管理应用状态。
 event.clientX：clientX 事件属性返回当事件被触发时鼠标指针相对于浏览器页面（或客户区）的水平坐标。
 event.clientY：垂直坐标。
 ## 数据配置
+
+## 说明：以上文件来自队员oneshark,基本框架由其书写，感谢队友
+### ming的antd组件部分在 src/client/pages/configs.js
+#### ant设计组件使用方法参考：https://ant.design/docs/react/introduce-cn
+- npm install antd --save （安装antd）
+- yarn add antd （导入antd）
+- import { Button } from 'antd'; （在使用组件的页面，添加组件，例如添加BUTTON组件）
+
+
 
 
 
