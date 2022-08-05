@@ -105,9 +105,10 @@ event.clientX：clientX 事件属性返回当事件被触发时鼠标指针相�
 event.clientY：垂直坐标。
 ## 数据配置
 
-## 说明：以上文件来自队员oneshark,基本框架由其书写，感谢队友
-### ming的antd组件部分在 src/client/pages/configs.js
-#### ant设计组件使用方法参考：https://ant.design/docs/react/introduce-cn
+## 说明：
+以上文件来自队员oneshark,基本框架由其书写，感谢队友。  
+ming的antd组件部分在 src/client/pages/configs.js  
+ant设计组件使用方法参考：https://ant.design/docs/react/introduce-cn  
 - npm install antd --save （安装antd）
 - yarn add antd （导入antd）
 - import { Button } from 'antd'; （在使用组件的页面，添加组件，例如添加BUTTON组件）
